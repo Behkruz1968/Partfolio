@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8",
+    "title": " For teachers",
+    "description": "web-app for teachers",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n_Eow8KF42BqHoz89gEYNbZkxu3qFWHuhwYKtiD3hUKR4-_oeQ1UAK6_cSUnQ8ifa4Y&usqp=CAU",
+    "github": "git remote add origin https://github.com/Behkruz1968/for-teachers.git",
+    "deployed": "https://for-teachers.vercel.app/",
+    "date": "August 2024"
+  },
+  {
+    "id": "",
+    "title": "Home-Harmony",
+    "description": "This web-app for buy a new homes .",
+    "thumbnail": "https://immo.uz/_ipx/f_webp/https://main.immo.uz/uploads/previews/products/a510275e4edbb91e2db41fa57e216cf6.webp ",
+    "github": "https://github.com/Behkruz1968/House-Harmony.git",
+    "deployed": "https://house-harmony-4piz.vercel.app/",
+    "date": "August 2024"
+  },
+  {
+    "id": "8",
+    "title": " Insure",
+    "description": "Insure is an innovative insurance platform designed to simplify the process of purchasing and managing insurance policies. The project includes developing a user-friendly interface that allows customers to compare different insurance options, customize their coverage, and handle claims efficiently. Insure aims to make insurance more accessible and understandable, offering tailored solutions for individuals and businesses alike.",
+    "thumbnail": "projects/insurew.png",
+    "github": "https://github.com/Behkruz1968/insure.git",
+    "deployed": "https://insure-dusky.vercel.app/",
+    "date": "August 2024"
+  },
+  {
+    "id": "9",
+    "title": "Flags",
+    "description": "The Flags project is a visual database and educational resource focused on the flags of different countries and organizations worldwide. It includes detailed information about the history, symbolism, and design of each flag, providing users with an interactive way to explore and learn about global symbols. The project can be used in educational settings or as a reference tool for designers, historians, and enthusiasts.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVts7Za8I2HkCBM_WVeHabPS7Nc68Sr6BqKA&s",
+    "github": "https://github.com/Behkruz1968/DAVLATLAR.git",
+    "deployed": "https://davlatlar-snowy.vercel.app/",
+    "date": "August 2024"
+  },
+  {
+    "id": "10",
+    "title": "Nike-boots",
+    "description": "The Nike Boots project involves the design and development of a new line of high-performance boots tailored for outdoor activities. The focus is on durability, comfort, and innovation, incorporating advanced materials and technologies to enhance the wearer's experience. The project includes market research, prototype testing, and a marketing strategy to launch the boots in both retail and online platforms.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRHaXKAamx6KQ1todT5bnjY8HcEfWgtw6kw&s",
+    "github": "https://github.com/Behkruz1968/NIKE.git",
+    "deployed": "https://nike-ten-gold.vercel.app/",
+    "date": "August 2024"
+  },
+  {
+    "id": "8",
+    "title": " curse-converter",
+    "description": "Curse Converter is a web-based tool that helps users translate and transform offensive language into neutral or humorous alternatives. This project is designed to promote positive communication by filtering out harmful words and phrases, replacing them with more appropriate expressions. The tool can be integrated into various platforms, such as social media, messaging apps, and forums, to encourage respectful interactions online.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXbTX9xH6pEA-3qXGbXd8Au3rNG4wkpY498XWPOGsxVpt3vVfd2aKZsXGBPZF7HfO-Mgs&usqp=CAU",
+    "github": "https://github.com/Behkruz1968/curse-valute.git",
+    "deployed": "https://curse-converter.vercel.app/",
+    "date": "August 2024"
+  },
+  {
+    "id": "9",
+    "title": "Velosport",
+    "description": " Velosport is a digital platform dedicated to cycling enthusiasts. It includes features such as tracking cycling routes, performance analytics, and a community forum for sharing tips and experiences. The platform is designed to support cyclists of all levels, offering tools for route planning, goal setting, and progress tracking. Velosport also connects users with local cycling events and clubs, fostering a community of passionate cyclists.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNGift86I05-deQozRW8CCSonH4E12EoBUg&s",
+    "github": "https://github.com/Behkruz1968/Velosport.git",
+    "deployed": "https://velosport.vercel.app/",
+    "date": "August 2024"
+  },
+  {
+    "id": "10",
+    "title": "Weather",
+    "description": "This project focuses on developing a comprehensive weather forecasting application that provides real-time updates, accurate predictions, and weather-related alerts. The app integrates various data sources to offer detailed forecasts, including temperature, precipitation, wind speed, and humidity, for different regions. It aims to enhance user experience by incorporating features such as interactive maps, personalized notifications, and AI-driven weather insights.",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1358/1*B0CPQBb2NyTIeVx9tFSPRQ.png",
+    "github": "https://github.com/Behkruz1968/Weather.git",
+    "deployed": "https://weather-virid-nine-47.vercel.app/",
+    "date": "August 2024"
+  }
+]
