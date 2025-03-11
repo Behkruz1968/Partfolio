@@ -4,8 +4,8 @@
     "title": " For teachers",
     "description": "web-app for teachers",
     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3n_Eow8KF42BqHoz89gEYNbZkxu3qFWHuhwYKtiD3hUKR4-_oeQ1UAK6_cSUnQ8ifa4Y&usqp=CAU",
-    "github": "git remote add origin https://github.com/Behkruz1968/for-teachers.git",
-    "deployed": "https://for-teachers.vercel.app/",
+    "github": "git remote add origin https://github.com/Behkruz1968/Restoran.uz",
+    "deployed": "https://restoran-uz.vercel.app/",
     "date": "August 2024"
   },
   {
@@ -22,8 +22,8 @@
     "title": " Insure",
     "description": "Insure is an innovative insurance platform designed to simplify the process of purchasing and managing insurance policies. The project includes developing a user-friendly interface that allows customers to compare different insurance options, customize their coverage, and handle claims efficiently. Insure aims to make insurance more accessible and understandable, offering tailored solutions for individuals and businesses alike.",
     "thumbnail": "projects/insurew.png",
-    "github": "https://github.com/Behkruz1968/insure.git",
-    "deployed": "https://insure-dusky.vercel.app/",
+    "github": "https://github.com/Behkruz1968/HighTechIT",
+    "deployed": "https://high-tech-it.vercel.app/",
     "date": "August 2024"
   },
   {
